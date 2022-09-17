@@ -1,3 +1,2 @@
-# FlowerClassificationModel
+# Compilation of my various personal projects exploring ML
 
-(Reupload) Simple multiclass classification model to distinguish classes of Iris flowers from a dataset using the random forest algorithm
