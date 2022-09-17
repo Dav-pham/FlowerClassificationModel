@@ -1,2 +1,2 @@
-# Compilation of my various personal projects exploring ML
+My various personal projects exploring ML
 
