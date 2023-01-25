@@ -1,2 +1,2 @@
-My various personal projects exploring ML
+A place to document future ML projects
 
