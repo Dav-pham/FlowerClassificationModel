@@ -1,2 +1,2 @@
-A place to document future ML projects
+A place to document future ML projects/practice
 
